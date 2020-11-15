@@ -1,2 +1,2 @@
 # coninp2020
-Minicursos Coninp 2020
+Minicurso Coninp 2020
